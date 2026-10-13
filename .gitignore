@@ -1,0 +1,16 @@
+node_modules/
+dist/
+src-tauri/target/
+work/
+*.key
+*.key.pub
+*.log
+.env*
+playwright-report/
+test-results/
+src-tauri/icons/android/
+src-tauri/icons/ios/
+src-tauri/icons/icon.icns
+src-tauri/icons/Square*Logo.png
+src-tauri/icons/StoreLogo.png
+src-tauri/gen/
